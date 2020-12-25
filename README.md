@@ -97,7 +97,7 @@ response: p____a___
 
 ```
 
-# Problem 5 : 
+# Problem 5 : Infinite Sequence 
 
 Consider the following array:
 
@@ -118,3 +118,29 @@ solve(2) = 1, because the second character is also 1.
 solve(3) = 2, because the third character is 2.
 
 ```
+
+# Problem 6 : The dots and parentheses
+
+The following task has two parts. 
+
+- First you must figure out the principle behind the following encoding of natural numbers. 
+- The table below displays the encoding of the numbers from 0 to 11.
+
+| Number | Code |
+| --- | --- |
+| 0 | '.' |
+| 1 | '()' |
+| 2 | '(())' |
+| 3 | '(.())' |
+| 4 | '((()))' |
+| 5 | '(..())' |
+| 6 | '(()())' |
+| 7 | '(...())' |
+| 8 | '((.()))' |
+| 9 | '(.(()))' |
+| 10 | '(().())' |
+| 11 | '(....())' |
+
+Once you understand how the numbers are encoded, write a program which encodes a given natural number and return it as a string.
+
+**Values from 0 to 10000 will be checked**
