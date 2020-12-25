@@ -144,3 +144,5 @@ The following task has two parts.
 Once you understand how the numbers are encoded, write a program which encodes a given natural number and return it as a string.
 
 **Values from 0 to 10000 will be checked**
+
+:heart: GOOD lUCK :heart:
