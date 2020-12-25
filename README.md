@@ -78,6 +78,7 @@ You have decided you want to impress your friends with your hangman skills and c
 
 ###### Task 
 -You must implement the Machine class that takes a word list and returns a player class that takes a length of the word you must guess. 
+
 -You must then make guesses returning letters of the alphabet to complete the word within 11 failed guesses, as a response you will receive a string representation of the letters found and the letters remaining unknown. 
 
 **Examples**
