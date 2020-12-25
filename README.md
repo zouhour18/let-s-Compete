@@ -1,4 +1,4 @@
-# Play With Numbers
+# Problem 1 : Play With Numbers
 Some numbers have funny properties.
 
 For example:
@@ -34,3 +34,19 @@ digPow(695, 2) should return 2 since 6² + 9³ + 5⁴= 1390 = 695 * 2
 digPow(46288, 3) should return 51 since 4³ + 6⁴+ 2⁵ + 8⁶ + 8⁷ = 2360688 = 46288 * 51
 
 ```
+
+# Problem 2 : To Binary
+
+Given a non-negative integer **n**, write a function ***to_binary/ToBinary*** which returns that number in a binary format.
+```
+
+to_binary(1)  # should return 1 
+to_binary(5)  # should return 101
+to_binary(11) # should return 1011
+
+```
+
+# Problem 3 : A to Z
+
+Given a string as input, return a new string with each letter pushed to the right by its respective index in the alphabet.
+
